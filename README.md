@@ -1,0 +1,6 @@
+- @knobgoblin, knobgoblin@goblinporn.com
+- Music stuff
+- Video for music stuff
+- Basic configuration as code stuff
+- Python stuff
+- Whatever falls out of my head stuff
